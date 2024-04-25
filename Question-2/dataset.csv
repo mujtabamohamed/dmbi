@@ -1,0 +1,51 @@
+age,occupation,lifestyle,family_diabetic_history,eating_habits,pre_diabetic_condition
+45,Business,Sedentary,Yes,Nutritional,Yes
+40,none,Sedentary,No,Nutritional,Yes
+43,Business,Active,Yes,Junk food,No
+43,Business,Sedentary,Yes,Junk food,Yes
+47,Business,Sedentary,Yes,Nutritional,Yes
+49,Job,Sedentary,Yes,Junk food,No
+43,Job,Sedentary,Yes,Nutritional,No
+45,none,Active,No,Nutritional,No
+42,Business,Active,Yes,Junk food,No
+44,Business,Sedentary,Yes,Nutritional,Yes
+47,Job,Sedentary,No,Junk food,No
+46,Business,Active,Yes,Junk food,Yes
+48,Job,Sedentary,Yes,Junk food,Yes
+48,none,Active,Yes,Junk food,Yes
+50,none,Active,No,Nutritional,Yes
+41,Business,Active,Yes,Nutritional,No
+46,Job,Active,Yes,Nutritional,No
+47,Job,Sedentary,No,Junk food,No
+47,Job,Sedentary,Yes,Junk food,Yes
+48,Job,Sedentary,No,Junk food,No
+41,none,Active,Yes,Nutritional,Yes
+45,none,Sedentary,Yes,Junk food,Yes
+49,none,Active,No,Junk food,No
+48,Business,Active,No,Junk food,No
+49,none,Active,Yes,Junk food,No
+44,Job,Sedentary,Yes,Nutritional,No
+43,Business,Active,Yes,Nutritional,No
+40,Job,Sedentary,No,Junk food,No
+43,none,Sedentary,No,Junk food,Yes
+45,Business,Active,Yes,Nutritional,Yes
+40,Business,Sedentary,Yes,Nutritional,No
+42,none,Active,Yes,Nutritional,No
+43,Business,Active,Yes,Junk food,No
+48,Business,Sedentary,Yes,Junk food,No
+41,Business,Sedentary,No,Nutritional,No
+43,Business,Active,Yes,Junk food,No
+43,Business,Sedentary,No,Junk food,No
+43,Business,Active,Yes,Junk food,No
+47,none,Sedentary,Yes,Junk food,No
+40,Business,Active,Yes,Junk food,No
+41,none,Sedentary,No,Nutritional,Yes
+49,Job,Active,No,Nutritional,Yes
+49,Job,Sedentary,No,Nutritional,Yes
+40,Job,Active,Yes,Junk food,Yes
+50,Business,Sedentary,Yes,Nutritional,No
+44,Job,Sedentary,No,Junk food,No
+47,Job,Sedentary,No,Nutritional,No
+43,Job,Active,No,Junk food,Yes
+42,Business,Sedentary,No,Junk food,No
+47,Job,Active,Yes,Nutritional,No
